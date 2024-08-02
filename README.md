@@ -4,4 +4,6 @@ não pertube gerando assim uma pausa de recebimento de ligações no sistema.
 O arquivo start.bat é um bat simples que executa o script, voce pode configurar para ele ser executado automaticamente colocando ele para ser chamado quando clicar no botão dnd é so alterar o seu arquivo microsipi.ini que fica no appdata
 este arquivo ja configurado deixei disponivel para download tambem.
 
+Deixei a pasta do programa portable zipada, é so descompactar e colocar no disco C: que ja sai funcionando 
+
 Esta foi a unica forma que consegui resolver este problema, qualquer solução alternativa gostaria de saber espero ter ajudado!
